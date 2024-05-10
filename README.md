@@ -1,5 +1,5 @@
 ### JS | JEST
-# Web Crawler http
+# Web Crawler HTTP
 
 
 Basic web crawler which represents the linking structure of the website </br></br>

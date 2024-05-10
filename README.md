@@ -1,8 +1,25 @@
-# web-crawler-http
-## JS | JEST 
-Basic web crawler which represent linking structure of the website by the link
+### JS | JEST
+# Web Crawler http
 
-The purpose of this application is to crawl a website and produce a report of the internal linking structure of the website. Traditionally this kind of application are used by web marketers, SEO search engines optimization experts
+
+Basic web crawler which represents the linking structure of the website </br></br>
+
+The purpose of the application is to scan a website and generate a report detailing its internal linking structure.
+Typically, such tools are utilized by web marketers and experts in search engine optimization (SEO)
 
 ## How to run the application
-Git clone the repo. In order to check all tests write npm run test. In order to run the application use npm run start linkToYouWebsite.com 
+
+Git clone the repo 
+```bash
+$ git clone https://github.com/sssshefer/web-crawler-http.git
+```
+
+Check all tests for the application
+```bash
+$ npm run test
+```
+
+Run the application 
+```bash
+$ npm run start https://linkToYouWebsite.com
+```
